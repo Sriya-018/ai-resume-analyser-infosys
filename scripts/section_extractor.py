@@ -30,4 +30,4 @@ for paper in papers:
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(results, f, indent=4)
 
-print("✅ Section-wise extraction completed")
+print("✅ Section-wise extraction completed.")
