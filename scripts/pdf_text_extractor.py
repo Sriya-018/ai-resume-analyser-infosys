@@ -2,8 +2,10 @@ import os
 import json
 import fitz  # PyMuPDF
 
-PDF_DIR = "pdfs/speech_recognisation"
-OUTPUT_FILE = "extracted_text/raw_text.json"
+topic = input("Enter topic name:").lower().replace(" ", "_")
+
+PDF_DIR = f"pdfs/{topic}"
+OUTPUT_FILE = f"extracted_text/{topic}_raw_text.json"
 
 data = []
 
@@ -18,7 +20,9 @@ for file in os.listdir(PDF_DIR):
             "text": text
         })
 
+os.makedirs("extracted_text", exist_ok=True)
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4)
 
-print("✅ Raw text extracted")
+print("✅ Raw text extracted for topic:", topic)
