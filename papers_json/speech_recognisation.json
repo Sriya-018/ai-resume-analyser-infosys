@@ -1,0 +1,315 @@
+[
+    {
+        "paperId": "0487629f790667b603920c2308f05f698ac84c64",
+        "url": "https://www.semanticscholar.org/paper/0487629f790667b603920c2308f05f698ac84c64",
+        "title": "Speech Recognisation System Using Wavelet Transform",
+        "year": 2014,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null
+        },
+        "authors": [
+            {
+                "authorId": "5066370",
+                "name": "A. Chugh"
+            },
+            {
+                "authorId": "48587111",
+                "name": "Poonam Rana"
+            },
+            {
+                "authorId": "46429957",
+                "name": "Suraj Rana"
+            }
+        ],
+        "abstract": null
+    },
+    {
+        "paperId": "6fe3bbef2e75780060b39dd5a25a1507d6ec602e",
+        "url": "https://www.semanticscholar.org/paper/6fe3bbef2e75780060b39dd5a25a1507d6ec602e",
+        "title": "Towards Efficient and Explainable Hate Speech Detection via Model Distillation",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "",
+            "status": "CLOSED",
+            "license": null,
+            "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2412.13698, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2323738961",
+                "name": "Paloma Piot"
+            },
+            {
+                "authorId": "2323742680",
+                "name": "Javier Parapar"
+            }
+        ],
+        "abstract": "Automatic detection of hate and abusive language is essential to combat its online spread. Moreover, recognising and explaining hate speech serves to educate people about its negative effects. However, most current detection models operate as black boxes, lacking interpretability and explainability. In this context, Large Language Models (LLMs) have proven effective for hate speech detection and to promote interpretability. Nevertheless, they are computationally costly to run. In this work, we propose distilling big language models by using Chain-of-Thought to extract explanations that support the hate speech classification task. Having small language models for these tasks will contribute to their use in operational settings. In this paper, we demonstrate that distilled models deliver explanations of the same quality as larger models while surpassing them in classification performance. This dual capability, classifying and explaining, advances hate speech detection making it more affordable, understandable and actionable."
+    },
+    {
+        "paperId": "5596bd3e26ec2207666ec1ff3db4415d212f14b9",
+        "url": "https://www.semanticscholar.org/paper/5596bd3e26ec2207666ec1ff3db4415d212f14b9",
+        "title": "Connecting Speech Encoder and Large Language Model for ASR",
+        "year": 2023,
+        "openAccessPdf": {
+            "url": "http://arxiv.org/pdf/2309.13963",
+            "status": "GREEN",
+            "license": null,
+            "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2309.13963, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "48729312",
+                "name": "Wenyi Yu"
+            },
+            {
+                "authorId": "2247237695",
+                "name": "Changli Tang"
+            },
+            {
+                "authorId": "2107310187",
+                "name": "Guangzhi Sun"
+            },
+            {
+                "authorId": "2135092817",
+                "name": "Xianzhao Chen"
+            },
+            {
+                "authorId": "101432607",
+                "name": "T. Tan"
+            },
+            {
+                "authorId": "2256598801",
+                "name": "Wei Li"
+            },
+            {
+                "authorId": "2215402606",
+                "name": "Lu Lu"
+            },
+            {
+                "authorId": "2919563",
+                "name": "Zejun Ma"
+            },
+            {
+                "authorId": "2256775692",
+                "name": "Chao Zhang"
+            }
+        ],
+        "abstract": "The impressive capability and versatility of large language models (LLMs) have aroused increasing attention in automatic speech recognition (ASR), with several pioneering studies attempting to build integrated ASR models by connecting a speech encoder with an LLM. This paper presents a comparative study of three commonly used structures as connectors, including fully connected layers, multi-head cross-attention, and Q-Former. Speech encoders from the Whisper model series as well as LLMs from the Vicuna model series with different model sizes were studied. Experiments were performed on the commonly used LibriSpeech, Common Voice, and GigaSpeech datasets, where the LLMs with Q-Formers demonstrated consistent and considerable word error rate (WER) reductions over LLMs with other connector structures. Q-Former-based LLMs can generalise well to out-of-domain datasets, where 12% relative WER reductions over the Whisper baseline ASR model were achieved on the Eval2000 test set without using any in-domain training data from Switchboard. Moreover, a novel segment-level Q-Former is proposed to enable LLMs to recognise speech segments with a duration exceeding the limitation of the encoders, which results in 17% relative WER reductions over other connector structures on 90-second-long speech data."
+    },
+    {
+        "paperId": "28ec4f3e9eb9446dbc2ce13097a3cad25e8bcab7",
+        "url": "https://www.semanticscholar.org/paper/28ec4f3e9eb9446dbc2ce13097a3cad25e8bcab7",
+        "title": "Combating Hate Speech on Social Media: Applying Targeted Regulation, Developing Civil-Communicative Skills and Utilising Local Evidence-Based Anti-Hate Speech Interventions",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://www.mdpi.com/2673-5172/5/2/31/pdf?version=1712478121",
+            "status": "GOLD",
+            "license": "CCBY",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/journalmedia5020031?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/journalmedia5020031, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "113368501",
+                "name": "S. Pukallus"
+            },
+            {
+                "authorId": "2296140394",
+                "name": "Catherine M Arthur"
+            }
+        ],
+        "abstract": "Social media platforms such as Facebook and X (formerly Twitter) set their core aim as bringing people and communities closer together. Yet, they resemble a digital communicative battleground in which hate speech is increasingly present. Hate speech is not benign. It is the communicative driver of group oppression. It is therefore imperative to disarm this digital communicative battlefield by (a) regulating and redesigning social media platforms to prevent them from playing an active and enabling role in the dissemination of hate speech and (b) empowering citizen-users and local civil associations to recognise and actively counter hate speech. This top-down and bottom-up approach necessarily enforces responsibility and builds capacity. This requires that we adapt and combine three aspects of communicative peacebuilding: first, the (re)building of civil-communicative institutions; second, the use of digital citizenship educational programmes to support the development of civil-communicative skills for using social media; and third, the identification and use of local civil capacity and knowledge, which manifests in the present context in the use of local evidence-based anti-hate speech interventions. We argue that this interdisciplinary combinatorial approach has the potential to be effective because it combines two things: it places responsibility on relevant actors to both make social media safer and to navigate it harmlessly and responsibly; and it simultaneously helps build the capacity for actively identifying and countering hate speech in civil societies."
+    },
+    {
+        "paperId": "7711a0970ef4f7dcb6c82a325e77dae0bf4344bf",
+        "url": "https://www.semanticscholar.org/paper/7711a0970ef4f7dcb6c82a325e77dae0bf4344bf",
+        "title": "Exploring Native and Non-Native English Child Speech Recognition With Whisper",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10474352.pdf",
+            "status": "GOLD",
+            "license": "CCBY",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2024.3378738?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2024.3378738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2265754220",
+                "name": "Rishabh Jain"
+            },
+            {
+                "authorId": "2205545256",
+                "name": "Andrei Barcovschi"
+            },
+            {
+                "authorId": "102554842",
+                "name": "Mariam Yiwere"
+            },
+            {
+                "authorId": "2238054462",
+                "name": "Peter Corcoran"
+            },
+            {
+                "authorId": "1700021",
+                "name": "H. Cucu"
+            }
+        ],
+        "abstract": "Modern end-to-end Automatic Speech Recognition (ASR) systems struggle to recognise children\u2019s speech. This challenge is due to the high acoustic variability in children\u2019s voices and the scarcity of child speech training data, particularly for accented or low-resource languages. This study focuses on improving the performance of ASR on native and non-native English child speech using publicly available datasets. We evaluate how the large-scale whisper models (trained with a large amount of adult speech data) perform with child speech. In addition, we perform finetuning experiments using different child speech datasets to investigate the performance of whisper ASR on non-native English-speaking children\u2019s speech. Our findings indicate relative Word Error Rate (WER) improvements ranging from 29% to 89% over previous benchmarks on the same datasets. Notably, these gains were achieved by finetuning with only a 10% sample of unseen non-native datasets. These results demonstrate the potential of whisper for improving ASR in a low-resource scenario for non-native child speech."
+    },
+    {
+        "paperId": "d3fa8f4d989f02b88c2a4c1863398cd40c7b13d4",
+        "url": "https://www.semanticscholar.org/paper/d3fa8f4d989f02b88c2a4c1863398cd40c7b13d4",
+        "title": "Human\u2013Computer Interaction with a Real-Time Speech Emotion Recognition with Ensembling Techniques 1D Convolution Neural Network and Attention",
+        "year": 2023,
+        "openAccessPdf": {
+            "url": "https://www.mdpi.com/1424-8220/23/3/1386/pdf?version=1675764083",
+            "status": "GOLD",
+            "license": "CCBY",
+            "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9921095, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2098208263",
+                "name": "Waleed Alsabhan"
+            }
+        ],
+        "abstract": "Emotions have a crucial function in the mental existence of humans. They are vital for identifying a person\u2019s behaviour and mental condition. Speech Emotion Recognition (SER) is extracting a speaker\u2019s emotional state from their speech signal. SER is a growing discipline in human\u2013computer interaction, and it has recently attracted more significant interest. This is because there are not so many universal emotions; therefore, any intelligent system with enough computational capacity can educate itself to recognise them. However, the issue is that human speech is immensely diverse, making it difficult to create a single, standardised recipe for detecting hidden emotions. This work attempted to solve this research difficulty by combining a multilingual emotional dataset with building a more generalised and effective model for recognising human emotions. A two-step process was used to develop the model. The first stage involved the extraction of features, and the second stage involved the classification of the features that were extracted. ZCR, RMSE, and the renowned MFC coefficients were retrieved as features. Two proposed models, 1D CNN combined with LSTM and attention and a proprietary 2D CNN architecture, were used for classification. The outcomes demonstrated that the suggested 1D CNN with LSTM and attention performed better than the 2D CNN. For the EMO-DB, SAVEE, ANAD, and BAVED datasets, the model\u2019s accuracy was 96.72%, 97.13%, 96.72%, and 88.39%, respectively. The model beat several earlier efforts on the same datasets, demonstrating the generality and efficacy of recognising multiple emotions from various languages."
+    },
+    {
+        "paperId": "b4e990effdee133f17835567db04d3aba4b160d4",
+        "url": "https://www.semanticscholar.org/paper/b4e990effdee133f17835567db04d3aba4b160d4",
+        "title": "Multisensory integration of speech and gestures in a naturalistic paradigm",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://doi.org/10.1002/hbm.26797",
+            "status": "GOLD",
+            "license": "CCBYNCND",
+            "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11263810, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "41048064",
+                "name": "Magdalena Matyjek"
+            },
+            {
+                "authorId": "2265895844",
+                "name": "Sotaro Kita"
+            },
+            {
+                "authorId": "2006082865",
+                "name": "Mireia Torralba Cuello"
+            },
+            {
+                "authorId": "2312361080",
+                "name": "S. Soto Faraco"
+            }
+        ],
+        "abstract": "Speech comprehension is crucial for human social interaction, relying on the integration of auditory and visual cues across various levels of representation. While research has extensively studied multisensory integration (MSI) using idealised, well\u2010controlled stimuli, there is a need to understand this process in response to complex, naturalistic stimuli encountered in everyday life. This study investigated behavioural and neural MSI in neurotypical adults experiencing audio\u2010visual speech within a naturalistic, social context. Our novel paradigm incorporated a broader social situational context, complete words, and speech\u2010supporting iconic gestures, allowing for context\u2010based pragmatics and semantic priors. We investigated MSI in the presence of unimodal (auditory or visual) or complementary, bimodal speech signals. During audio\u2010visual speech trials, compared to unimodal trials, participants more accurately recognised spoken words and showed a more pronounced suppression of alpha power\u2014an indicator of heightened integration load. Importantly, on the neural level, these effects surpassed mere summation of unimodal responses, suggesting non\u2010linear MSI mechanisms. Overall, our findings demonstrate that typically developing adults integrate audio\u2010visual speech and gesture information to facilitate speech comprehension in noisy environments, highlighting the importance of studying MSI in ecologically valid contexts."
+    },
+    {
+        "paperId": "b68ecbb4585d7fd3526775d84376db78844e1f13",
+        "url": "https://www.semanticscholar.org/paper/b68ecbb4585d7fd3526775d84376db78844e1f13",
+        "title": "Child Speech Recognition in Human-Robot Interaction: Problem Solved?",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null,
+            "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2404.17394, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2159680523",
+                "name": "R. Janssens"
+            },
+            {
+                "authorId": "2291819124",
+                "name": "Eva Verhelst"
+            },
+            {
+                "authorId": "2168299364",
+                "name": "Giulio Antonio Abbo"
+            },
+            {
+                "authorId": "2298756909",
+                "name": "Qiaoqiao Ren"
+            },
+            {
+                "authorId": "2298756304",
+                "name": "Maria Jose Pinto Bernal"
+            },
+            {
+                "authorId": "2266754309",
+                "name": "Tony Belpaeme"
+            }
+        ],
+        "abstract": "Automated Speech Recognition shows superhuman performance for adult English speech on a range of benchmarks, but disappoints when fed children's speech. This has long sat in the way of child-robot interaction. Recent evolutions in data-driven speech recognition, including the availability of Transformer architectures and unprecedented volumes of training data, might mean a breakthrough for child speech recognition and social robot applications aimed at children. We revisit a study on child speech recognition from 2017 and show that indeed performance has increased, with newcomer OpenAI Whisper doing markedly better than leading commercial cloud services. Performance improves even more in highly structured interactions when priming models with specific phrases. While transcription is not perfect yet, the best model recognises 60.3% of sentences correctly barring small grammatical differences, with sub-second transcription time running on a local GPU, showing potential for usable autonomous child-robot speech interactions."
+    },
+    {
+        "paperId": "f7833bcdaa20c94f89e2cf622cd16b5a0039b94e",
+        "url": "https://www.semanticscholar.org/paper/f7833bcdaa20c94f89e2cf622cd16b5a0039b94e",
+        "title": "Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling",
+        "year": 2023,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null,
+            "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2312.11947, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "1820776989",
+                "name": "Rui Liu"
+            },
+            {
+                "authorId": "2275569490",
+                "name": "Yifan Hu"
+            },
+            {
+                "authorId": "2276490364",
+                "name": "Yi Ren"
+            },
+            {
+                "authorId": "2261936737",
+                "name": "Xiang Yin"
+            },
+            {
+                "authorId": "2243399625",
+                "name": "Haizhou Li"
+            }
+        ],
+        "abstract": "Conversational Speech Synthesis (CSS) aims to accurately express an utterance with the appropriate prosody and emotional inflection within a conversational setting. While recognising the significance of CSS task, the prior studies have not thoroughly investigated the emotional expressiveness problems due to the scarcity of emotional conversational datasets and the difficulty of stateful emotion modeling. In this paper, we propose a novel emotional CSS model, termed ECSS, that includes two main components: 1) to enhance emotion understanding, we introduce a heterogeneous graph-based emotional context modeling mechanism, which takes the multi-source dialogue history as input to model the dialogue context and learn the emotion cues from the context; 2) to achieve emotion rendering, we employ a contrastive learning-based emotion renderer module to infer the accurate emotion style for the target utterance. To address the issue of data scarcity, we meticulously create emotional labels in terms of category and intensity, and annotate additional emotional information on the existing conversational dataset (DailyTalk). Both objective and subjective evaluations suggest that our model outperforms the baseline models in understanding and rendering emotions. These evaluations also underscore the importance of comprehensive emotional annotations. Code and audio samples can be found at: https://github.com/walker-hyf/ECSS."
+    },
+    {
+        "paperId": "9f3a7db25693649d796b445f551ddd1de31a1165",
+        "url": "https://www.semanticscholar.org/paper/9f3a7db25693649d796b445f551ddd1de31a1165",
+        "title": "CEN_Amrita@LT-EDI 2024: A Transformer based Speech Recognition System for Vulnerable Individuals in Tamil",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null,
+            "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://aclanthology.org/2024.ltedi-1.21, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2291363234",
+                "name": "J. R"
+            },
+            {
+                "authorId": "2265759143",
+                "name": "J. G"
+            },
+            {
+                "authorId": "1641886901",
+                "name": "P. B."
+            },
+            {
+                "authorId": "2291362395",
+                "name": "Viswa M"
+            }
+        ],
+        "abstract": null
+    }
+]

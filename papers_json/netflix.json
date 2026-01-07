@@ -1,0 +1,263 @@
+[
+    {
+        "paperId": "890d7a02cede5ef9a0737ba0976af79b9726b30d",
+        "url": "https://www.semanticscholar.org/paper/890d7a02cede5ef9a0737ba0976af79b9726b30d",
+        "title": "Netflix and the Re-invention of Television",
+        "year": 2023,
+        "openAccessPdf": {
+            "url": "",
+            "status": "CLOSED",
+            "license": null,
+            "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-3-031-39237-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-3-031-39237-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "32104834",
+                "name": "M. Jenner"
+            }
+        ],
+        "abstract": null
+    },
+    {
+        "paperId": "e43857d1308e941b50f78e011604f0402688b060",
+        "url": "https://www.semanticscholar.org/paper/e43857d1308e941b50f78e011604f0402688b060",
+        "title": "How \u201coriginal\u201d are Netflix Original films? Mapping and understanding the recycling of content in the age of streaming cinema",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://journals.sagepub.com/doi/pdf/10.1177/01634437231224081",
+            "status": "HYBRID",
+            "license": "CCBYNC",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/01634437231224081?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/01634437231224081, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "114104841",
+                "name": "Eduard Cuelenaere"
+            }
+        ],
+        "abstract": "This article examines Netflix\u2019s recycling content strategies in the era of streaming cinema. It starts from the assumption that because of the different institutional logic at work in the land of SVODs, the affordances that recycled content brings may not be as effective (and necessary) as it has been in Hollywood. Using a database-centered approach, we analyze 658 Netflix Original films. Between 2015 and 2022, Netflix released 440 non-recycled Originals, showcasing a commitment to offering a high quantity of niche films. The dataset equally shows that the percentage of recycled films (33%) follow a linear upward pattern, highlighting the persistence of conservative content strategies. More specifically, (re-)adaptations constituted the biggest chunk of recycled content (68%), as these allow the streamer to quickly fill its catalog with recyclable IP. Netflix\u2019s inclination toward sequels (16%), spin-offs (6%), and prequels (2%) aligns with its sequelization strategy, while also leveraging its own IP. Remakes (8%) play a less significant role, likely due to the relatively young age of Netflix\u2019s content library. The article concludes that Netflix may, in fact, be less of a disruptive force to the film industry in terms of the diversity of its content creation, prompting further recycling of existing properties."
+    },
+    {
+        "paperId": "7f405520208babb8091d80f2baea0ba2f2672c5e",
+        "url": "https://www.semanticscholar.org/paper/7f405520208babb8091d80f2baea0ba2f2672c5e",
+        "title": "Netflix English subtitling of idioms in Egyptian movies: challenges and strategies",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://www.nature.com/articles/s41599-024-03327-4.pdf",
+            "status": "GOLD",
+            "license": "CCBY",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1057/s41599-024-03327-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1057/s41599-024-03327-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2255637825",
+                "name": "Ahmad S. Haider"
+            },
+            {
+                "authorId": "2278184683",
+                "name": "Reem Shuhaiber"
+            }
+        ],
+        "abstract": "Recently, subtitles in different languages have become more available and accessible, thanks to streaming platforms like Netflix, which provide viewers with multiple language choices, including Arabic and English. This study examines the strategies of subtitling Egyptian phraseological units, particularly idioms, into English. The parallel corpus of data under examination consists of two Egyptian movies, namely, \u201c The Great Chinese Beans \u201d and \u201c The Humans and the Mongoose \u201d. Following Baker\u2019s taxonomy of translation strategies, the analysis showed that the examined idioms were predominantly translated through cultural substitution. The analysis also showed that there were instances of erroneous literal translation. Furthermore, several cases of mistranslation were identified, which could be attributed to a potential lack of understanding of the nuances and subtleties of the source and target cultures, as well as limitations and difficulties in finding appropriate equivalents. This study may hold significance for translation practitioners and scholars, specifically those focusing on subtitling, cultural translation, and the translation of idiomatic expressions."
+    },
+    {
+        "paperId": "7382a90113b21bdd6362bba7029a519752ed0bfe",
+        "url": "https://www.semanticscholar.org/paper/7382a90113b21bdd6362bba7029a519752ed0bfe",
+        "title": "Implementasi Algoritma Decision Tree untuk Rekomendasi Film dan Klasifikasi Rating pada Platform Netflix",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://journal.irpi.or.id/index.php/malcom/article/download/1255/591",
+            "status": "HYBRID",
+            "license": "CCBYNCSA",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.57152/malcom.v4i2.1255?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.57152/malcom.v4i2.1255, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2292065248",
+                "name": "Dimas Aditya Mukhsinin"
+            },
+            {
+                "authorId": "2370353775",
+                "name": "M. Rafliansyah"
+            },
+            {
+                "authorId": "2292026655",
+                "name": "Sang Adji Ibrahim"
+            },
+            {
+                "authorId": "73685770",
+                "name": "Rahmaddeni Rahmaddeni"
+            },
+            {
+                "authorId": "119269944",
+                "name": "Denok Wulandari"
+            }
+        ],
+        "abstract": "Sebagai salah satu platform video streaming terbesar di dunia, Netflix telah berkembang pesat sejak pendiriannya pada tahun 1997, awalnya berfokus pada penyewaan DVD, namun kemudian beralih ke layanan streaming online pada tahun 2007. Dengan jutaan pelanggan global, Netflix terus berinovasi dengan paket langganan, produksi konten eksklusif, dan teknologi analisis data serta machine learning untuk meningkatkan pengalaman pengguna. Penelitian ini menerapkan algoritma Decision Tree untuk meningkatkan sistem rekomendasi dan klasifikasi rating di Netflix. Menggunakan dua dataset utama, movies_df dan ratings_df, penelitian melibatkan langkah-langkah pengumpulan dan penggabungan data, penentuan fitur dan variabel target, pembagian data, pelatihan model, serta evaluasi. Hasilnya mencakup evaluasi model Decision Tree dengan metrik akurasi, precision, recall, dan F1-score untuk setiap kategori rating, serta visualisasi grafik batang tentang jumlah rating film dan presentase rating dari 1-5. Rekomendasi film berdasarkan model Decision Tree juga disajikan, memberikan wawasan tentang peningkatan sistem rekomendasi di Netflix. Kesimpulan menunjukkan bahwa implementasi algoritma Decision Tree dapat meningkatkan akurasi rekomendasi film dan klasifikasi rating di Netflix, berkontribusi pada pengalaman pengguna yang lebih personal di era layanan streaming online."
+    },
+    {
+        "paperId": "4f0d6cf998b9d7012cc9838a3e758cfca382016c",
+        "url": "https://www.semanticscholar.org/paper/4f0d6cf998b9d7012cc9838a3e758cfca382016c",
+        "title": "Netflix English Subtitling of the Jordanian Movie 'The Alleys': Challenges and Strategies",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://www.royalliteglobal.com/advanced-humanities/article/download/1332/676",
+            "status": "HYBRID",
+            "license": "CCBYNCSA",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58256/sptxps94?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58256/sptxps94, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2149908528",
+                "name": "Bassam Saideen"
+            },
+            {
+                "authorId": "2279649107",
+                "name": "Abdullah Thalji"
+            },
+            {
+                "authorId": "2279651372",
+                "name": "Abdulkareem Lababaneh"
+            },
+            {
+                "authorId": "118738071",
+                "name": "Raeda Tartory"
+            },
+            {
+                "authorId": "2244358518",
+                "name": "A. Haider"
+            },
+            {
+                "authorId": "71075167",
+                "name": "Mohammed M. Obeidat"
+            }
+        ],
+        "abstract": "Purpose: This study examined the translation strategies employed in subtitling the Jordanian Movie The Alleys from Jordanian vernacular into English, with special attention to culture-specific items (CSIs) and swear words. \nDesign/Methodology: The selected movie was produced in 2022 and aired on Netflix. After watching the movie and examining the subtitles, the researchers grouped them into two main categories: culture-specific items (CSIs) and Swear Words. The themes subcategorized under CSIs include i) idioms and proverbs, ii) terms of address, iii) religious expressions, iv) oaths, and v) food and drinks. The themes identified in the movie and subcategorized under Swear Words include i) relative-related, ii) sex-related, iii) animal-related, iv) excretion, and v) rudeness and disrespect. The study utilized the translation strategies proposed by Baker (2001), Gottlieb (1992), and Mughazy (2016). \nFindings: The findings showed that the strategies used in translating idioms and proverbs are metaphorical approximation (idiom to idiom), metaphorization, and literalization (paraphrase). The strategies used in rendering terms of address, religious expressions, food & drinks are cultural adaptation, deletion, substitution, and generalization. Swear words were translated using various strategies: substitution, addition, deletion, or literal translation. \nPractical Implications: The study concluded that language could be creatively and strategically altered to capture cultural contexts, feelings, and underlying meanings. These translation choices might not be merely linguistic tweaks but calculated efforts to accurately capture the essence of the original expressions with clarity and emotional resonance in the target language."
+    },
+    {
+        "paperId": "dc96cc7a223081ca5eea79913e4da17a895931f8",
+        "url": "https://www.semanticscholar.org/paper/dc96cc7a223081ca5eea79913e4da17a895931f8",
+        "title": "Strategies of translating swear words into Arabic: a case study of a parallel corpus of Netflix English-Arabic movie subtitles",
+        "year": 2023,
+        "openAccessPdf": {
+            "url": "https://www.nature.com/articles/s41599-023-01506-3.pdf",
+            "status": "GOLD",
+            "license": "CCBY",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1057/s41599-023-01506-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1057/s41599-023-01506-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2203265329",
+                "name": "Hussein Abu-Rayyash"
+            },
+            {
+                "authorId": "76916442",
+                "name": "Ahmad S. Haider"
+            },
+            {
+                "authorId": "1405095438",
+                "name": "Amer Al-Adwan"
+            }
+        ],
+        "abstract": "This study adopts a corpus-assisted approach to explore the translation strategies that Netflix subtitlers opted for in rendering 1564 English swear words into Arabic. It uses a 699,229-word English-Arabic parallel corpus consisting of the English transcriptions of forty English movies, drama, action, science fiction (sci-fi), and biography and their Arabic subtitles. Using the wordlist tool in SketchEngine, the researchers identified some frequent swear words, namely fuck, shit, damn, ass, bitch, bastard, asshole, dick, cunt , and pussy . Moreover, using the parallel concordance tool in SketchEngine revealed that three translation strategies were observed in the corpus, namely, omission, softening, and swear-to-non-swear. The omission strategy accounted for the lion\u2019s share in the investigated data, with 66% for drama, 61% for action, 52% for biography, and 40% for sci-fi. On the other hand, the swear-to-non-swear strategy was the least adopted one, accounting for 21% in sci-fi, 16% in biography, 14% in drama, and 11% in action. In addition, the softening strategy got the second-highest frequency across the different movie genres, with 39% for sci-fi, 32% for biography, 28% for action, and 20% for drama. Since swear words have connotative functions, omitting or euphemizing them could cause a slight change in the representation of meaning and characters. The study recommends more corpus-assisted studies on different AVT modes, including dubbing, voiceover, and free commentaries."
+    },
+    {
+        "paperId": "a69ea2f3c650e3d106506c924a2e9a5812676d4d",
+        "url": "https://www.semanticscholar.org/paper/a69ea2f3c650e3d106506c924a2e9a5812676d4d",
+        "title": "Promoting Self-Directed Learning through Netflix as a Learnng Aid of Listening and Speaking: An Investigation toward EFL Students\u2019 Voices",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://e-journal.undikma.ac.id/index.php/jollt/article/download/8377/5331",
+            "status": "GOLD",
+            "license": "CCBYSA",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33394/jollt.v12i1.8377?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33394/jollt.v12i1.8377, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2280612246",
+                "name": "Raulina Suci Maharani"
+            },
+            {
+                "authorId": "2280599231",
+                "name": "Nur Afifi"
+            }
+        ],
+        "abstract": "The advance of mobile technology combined with aggregating customers viewing habits have increased the growth of subcription vidio on demand (SVoD) services. Although this SVoD services potentially offer some benefits in L2 learning. Little has known about the benefit of SVoD in term of L2 learning. Therefore, this study aimed to find out EFL students\u2019 perception in UIN Maulana Malik Ibrahim Malang about the effect of watching English movies and series in Netflix as digital L2 learning aid on their listening and speaking skills. The study used mixed-method approach focusing on sequential explanatory research design. \u00a0Questionnaire and interview were used in collecting the data. The respondents for questionnaires were fifteen students of English Education Department of UIN Maulana Malik Ibrahim Malang, and the informants for the interview were five students. Then they were analyzed and interpreted through percentage and qualitative procedures. The findings indicated that English Education Department students have positive perception about Netflix as digital L2 learning aid. It showed that Netflix has direct influence in comprehending English Education Department Students\u2019 listening and speaking skills."
+    },
+    {
+        "paperId": "5c675ab531789945c15face80edc8d48324ec5dd",
+        "url": "https://www.semanticscholar.org/paper/5c675ab531789945c15face80edc8d48324ec5dd",
+        "title": "The Netflix effect: exploring the nexus of content exposure, destination appeal, and behavioural intention",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "",
+            "status": "CLOSED",
+            "license": null,
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/10548408.2024.2323944?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/10548408.2024.2323944, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2263881018",
+                "name": "Jeong Hyun Kim"
+            },
+            {
+                "authorId": "3484510",
+                "name": "Jungkeun Kim"
+            },
+            {
+                "authorId": "2256901054",
+                "name": "Namho Chung"
+            },
+            {
+                "authorId": "1739731",
+                "name": "C. Koo"
+            }
+        ],
+        "abstract": "ABSTRACT This study employs the AIDA framework and reception theory to explore the nexus between Netflix content exposure and travel intention. Findings unveil the underlying mechanisms involving exposure to content on Netflix, the appeal of a featured destination, and the behavioural intention to visit. Exposure to negative Netflix content elicits more unfavorable attitudes toward a destination compared to positive content or commercials. Participants\u2019 prior overseas travel experiences influence visit intention, emphasizing the impact of past encounters on perceptions of featured destinations. The research emphasizes the significance of examining the impact of Netflix\u2019s global content on destination appeal and provides practical recommendations."
+    },
+    {
+        "paperId": "9aadf73a45e74e4b7839d42ff68db35b28bab60f",
+        "url": "https://www.semanticscholar.org/paper/9aadf73a45e74e4b7839d42ff68db35b28bab60f",
+        "title": "Understanding Gen Z's Netflix usage in Indonesia: an Extended TAM perspective on willingness to subscribe",
+        "year": 2024,
+        "openAccessPdf": {
+            "url": "https://www.journalmabis.org/mabis/article/download/738/395",
+            "status": "GOLD",
+            "license": "CCBY",
+            "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24123/mabis.v23i1.738?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24123/mabis.v23i1.738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+        },
+        "authors": [
+            {
+                "authorId": "2290346464",
+                "name": "Andea Ndari Marela"
+            },
+            {
+                "authorId": "82712909",
+                "name": "L. Alfansi"
+            }
+        ],
+        "abstract": "This research constitutes an innovative contribution by exploring Generation Z's inclination to subscribe to Netflix. As this demographic dominates streaming platforms, understanding factors influencing subscription willingness is crucial in the digital entertainment industry. The study analyzes variables such as Perceived Usefulness, Perceived Ease of Use, Content Richness, Interactivity, and Perceived Price from the perspective of Generation Z in Indonesia. Utilizing the Structural Model with Partial Least Squares (PLS), online questionnaires were distributed through social media, garnering 300 responses. Findings reveal that Perceived Price, Perceived Usefulness, and Perceived Ease of Use significantly influence the Willingness to subscribe to Netflix among Generation Z in Indonesia. Interactivity positively impacts Perceived Usefulness, while Content Richness lacks a significant influence. These results underscore the importance for streaming providers like Netflix to ensure perceived value in pricing, prioritize user-friendliness, and leverage interactive features for an enhanced subscription experience. Aligning content with user preferences remains crucial for a nuanced understanding of the content-user relationship within the digital landscape."
+    },
+    {
+        "paperId": "31af4b8793e93fd35e89569ccd663ae8777f0072",
+        "url": "https://www.semanticscholar.org/paper/31af4b8793e93fd35e89569ccd663ae8777f0072",
+        "title": "The Netflix Prize",
+        "year": 2007,
+        "openAccessPdf": {
+            "url": "",
+            "status": null,
+            "license": null
+        },
+        "authors": [
+            {
+                "authorId": "2113543585",
+                "name": "J. Bennett"
+            },
+            {
+                "authorId": "47511653",
+                "name": "S. Lanning"
+            }
+        ],
+        "abstract": null
+    }
+]

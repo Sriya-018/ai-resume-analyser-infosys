@@ -1,0 +1,33 @@
+[
+    {
+        "pdf_file": "paper1.pdf",
+        "keywords": [
+            "speech",
+            "former",
+            "test",
+            "llms",
+            "large",
+            "models",
+            "language",
+            "model",
+            "were",
+            "arxiv"
+        ]
+    },
+    {
+        "pdf_file": "paper2.pdf",
+        "keywords": []
+    },
+    {
+        "pdf_file": "paper3.pdf",
+        "keywords": []
+    },
+    {
+        "pdf_file": "paper4.pdf",
+        "keywords": []
+    },
+    {
+        "pdf_file": "paper5.pdf",
+        "keywords": []
+    }
+]
